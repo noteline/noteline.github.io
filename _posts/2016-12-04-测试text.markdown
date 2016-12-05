@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2016-12-03 23:28:39 +0800
-categories: jekyll update
+  
 ---
 # 测试 
 ##测试
