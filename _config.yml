@@ -21,8 +21,17 @@ email: noteline@qq.com
 description: "这是一个新建立的博客，欢迎访问"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://noteline.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# SNs settings
+RSS: false
+
+
+
 markdown: kramdown
+
 theme: minima
+
 gems:
   - jekyll-feed
 exclude:
