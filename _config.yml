@@ -18,7 +18,7 @@
 # site settings
 title: Noteline's blog
 email: time-@live.cn
-description: "这是个新建立的博客，欢迎你的访问。"
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://noteline.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
