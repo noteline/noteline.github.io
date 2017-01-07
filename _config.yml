@@ -16,7 +16,7 @@
 title: Noteline's blog
 email: time-@live.cn
 description: > # this means to ignore newlines until "baseurl:"
-  It's a new blog, welcome to here.
+  这是一个新博客，欢迎访问。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://noteline.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
