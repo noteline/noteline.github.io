@@ -16,9 +16,8 @@
 
 
 # site settings
-title: Noteline's blog
-email: time-@live.cn
-description: ""
+title: Noteline blog
+email: noteline@qq.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://noteline.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
