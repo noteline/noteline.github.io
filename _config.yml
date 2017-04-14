@@ -1,7 +1,7 @@
 # Dependencies
 kramdown:
   input: GFM
-highlighter:      pygments
+highlighter:      rouge
 
 #
 encoding:         "utf-8"
@@ -10,7 +10,7 @@ permalink:        pretty
 
 # Setup
 title:            noteline
-tagline:          '时间'
+tagline:          '人们相互认识，但无法相互理解'
 description:      '你好世界'
 url:              http://shelldone.com
 
