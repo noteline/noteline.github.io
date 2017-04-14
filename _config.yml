@@ -1,5 +1,6 @@
 # Dependencies
-markdown:         rdiscount
+kramdown:
+  input: GFM
 highlighter:      pygments
 
 #
