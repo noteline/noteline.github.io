@@ -9,13 +9,13 @@ encoding:         "utf-8"
 permalink:        pretty
 
 # Setup
-title:            noteline
+title:            @注释线
 tagline:          '人们相互认识，但无法相互理解'
 description:      '话语是误会的源泉，所以我并不寄希望于有人会理解我。所有的这些，都是我在对自己说话'
 url:              http://shelldone.com
 
 author:
-  name:           '注释线'
+  name:           'noteline'
   url:            https://github.com/noteline
 
 paginate:         5
